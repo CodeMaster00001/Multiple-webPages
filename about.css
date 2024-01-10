@@ -1,0 +1,14 @@
+body{
+    background-color: #3498db; /* Blue card color */
+}
+.card{
+    background-color: #3498db; /* Blue card color */
+    /* color: #ffffff; White text for better contrast */
+}
+
+#carouselExampleAutoplaying{
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}

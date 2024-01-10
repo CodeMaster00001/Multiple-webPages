@@ -1,0 +1,20 @@
+body{
+    /* background-color: #f0f0f0; */
+    /* background-color: #3498db; Blue card color */
+}
+
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  .card {
+    width: 300px; /* Set the width of your card */
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* background-color: #3498db; Blue card color */
+    /* color: #ffffff; White text for better contrast   */
+}
